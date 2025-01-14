@@ -31,5 +31,5 @@
    ```bash
    pip install pyaudio numpy
 3. Run the application:
-  ```bash
-  python too_loud_timer.py
+   ```bash
+   python too_loud_timer.py
