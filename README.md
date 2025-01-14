@@ -33,3 +33,17 @@
 3. Run the application:
    ```bash
    python too_loud_timer.py
+
+---
+
+## Usage
+1. Launch the application.
+2. Click **Start Listening** to begin monitoring ambient noise.
+3. The timer will start when noise exceeds the threshold and pause when it drops below.
+4. Observe the real-time frequency visualization for feedback on noise levels.
+5. Click **Stop Listening** to pause the app and review the total noisy time.
+
+---
+
+## Configuration
+- **Noise Threshold**: Adjust the ```AUDIO_THRESHOLD``` parameter in the script to calibrate the sensitivity for different environments.
