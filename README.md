@@ -47,3 +47,23 @@
 
 ## Configuration
 - **Noise Threshold**: Adjust the ```AUDIO_THRESHOLD``` parameter in the script to calibrate the sensitivity for different environments.
+- **Frequency Bands**: Modify the ```NUM_BARS``` parameter to change the number of frequency bands displayed in the visualization.
+
+---
+## Requirements
+- Python 3.x
+- Libraries: ```pyaudio```, ```numpy```, ```tkinter```
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+---
+## Contributions
+Contributions are welcome! Please feel free to submit issues or pull requests.
+
+---
+## Acknowledgments
+- Built with ```pyaudio``` for audio input and ```tkinter``` for the graphical interface.
+- Inspired by the need for effective noise management in classrooms and workspaces.
