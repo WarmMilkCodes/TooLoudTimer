@@ -26,3 +26,7 @@
    ```bash
    git clone https://github.com/WarmMilkCodes/too-loud-timer.git
    cd too-loud-timer
+
+2. Install dependencies:
+   ``bash
+   pip install pyaudio numpy
