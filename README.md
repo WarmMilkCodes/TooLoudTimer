@@ -24,7 +24,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WarmMilkCodes/too-loud-timer.git
+   git clone https://github.com/WarmMilkCodes/tooloudtimer.git
    cd too-loud-timer
 
 2. Install dependencies:
