@@ -28,5 +28,5 @@
    cd too-loud-timer
 
 2. Install dependencies:
-   ``bash
+   ```bash
    pip install pyaudio numpy
